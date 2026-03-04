@@ -1,0 +1,12 @@
+# Environment secrets
+.env
+.env*.local
+
+# Dependencies
+node_modules/
+
+# Envio local state
+.envio/
+
+# OS
+.DS_Store
